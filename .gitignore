@@ -7,4 +7,14 @@ erl_crash.dump
 ebin/*.beam
 rel/example_project
 .concrete/DEV_MODE
+.erlang.cookie
+ebin
+log
+erl_crash.dump
 .rebar
+logs
+_build
+.idea
+*.iml
+rebar3.crashdump
+*~
