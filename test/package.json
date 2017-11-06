@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async": "^2.5.0",
+    "thrift": "^0.10.0"
+  }
+}

@@ -18,3 +18,11 @@ _build
 *.iml
 rebar3.crashdump
 *~
+#*
+test/gen-nodejs
+test/node_modules
+test/test_service_thrift.erl
+test/test_service_thrift.hrl
+test/test_constants.hrl
+test/test_types.hrl
+test/test_types.erl
